@@ -1,6 +1,6 @@
 # Sudoku Solver
 ## Description
-This C++ program solves Sudoku puzzles using a backtracking algorithm.
+This project is a Sudoku solver implemented in C++ using backtracking algorithms to solve 9x9 Sudoku puzzles efficiently. The solver provides a console-based application that allows users to input their own Sudoku puzzles or utilize a default example puzzle for demonstration purposes.
 
 ## Usage
 To use the Sudoku solver:
